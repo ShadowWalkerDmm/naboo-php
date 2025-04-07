@@ -1,4 +1,5 @@
 {
+    "name": "naboopay/naboo-php",
     "description": "Here you have the first version of the naboo api to create checkout automatically",
     "keywords": [
         "openapitools",
